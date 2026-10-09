@@ -11,7 +11,8 @@
           "path": "plugins/todoist/plugin.json",
           "jsonpath": "$.version"
         }
-      ]
+      ],
+      "initial-version": "1.0.0"
     }
   }
 }
